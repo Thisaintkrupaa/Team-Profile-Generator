@@ -1,7 +1,6 @@
 # Team-Profile-Generator
 
-
-
+objected oriented project. created a team profile using html css and JS 
 
 
 # Screenshot
@@ -10,8 +9,7 @@
 
 
 
-
 # Credit 
 
-
+Krupa Dulobo
 
