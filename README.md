@@ -1,6 +1,6 @@
 # Team-Profile-Generator
 
-objected oriented project. created a team profile using html css and JS 
+objected oriented project. created a team profile using html css node JS  and Enquiry
 
 
 # Screenshot
